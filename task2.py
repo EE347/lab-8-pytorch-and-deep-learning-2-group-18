@@ -37,7 +37,7 @@ if __name__ == '__main__':
     test_losses = []
 
     # Epoch Loop
-    for epoch in range(1, 100):
+    for epoch in range(1, 5):
 
         # Start timer
         t = time.time_ns()
